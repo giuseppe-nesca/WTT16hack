@@ -35,12 +35,11 @@
             android:process="com.nudge.gestureservice">
             <meta-data android:name="watch.nudge.gesturelib.version" android:value="@integer/watch_nudge_gesturelibrary_version"/>
             <intent-filter>
-                <action android:name="watch.nudge.gesturelibrary.GestureService" >
-                </action>
+                <action android:name="watch.nudge.gesturelibrary.GestureService"></action>
+
             </intent-filter>
         </service>
-        <service android:name=".GestureStartReceiver"
-            android:exported="true">
+        <service android:name=".GestureStartReceiver" android:exported="true">
             <intent-filter>
                 <action android:name="com.google.android.gms.wearable.BIND_LISTENER" />
             </intent-filter>

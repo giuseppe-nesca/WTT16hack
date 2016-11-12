@@ -32,7 +32,8 @@ public class MainWatchActivity extends AbstractGestureClientActivity  {
         mContainerView = (BoxInsetLayout) findViewById(R.id.container);
         mTextView = (TextView) findViewById(R.id.text);
         mClockView = (TextView) findViewById(R.id.clock);
-        //setSubscribeWindowEvents(true);
+        setSubscribeWindowEvents(false);
+        setWatchOnLeftHand(false);
     }
 
     @Override

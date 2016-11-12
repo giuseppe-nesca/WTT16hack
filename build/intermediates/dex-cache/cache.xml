@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\danie\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_a7208d1589b448b4a5ea16014a5ccbf16b0820cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.8.0_84ed8fd2561e0eeaf5dcfdc8394fa478e32a7521\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.8.0_d65b924c9044f2198613e52af67fefa5c67277fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_739abda5641e0827103ef3d41f0eef724755ce3e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.8.0_722cba1a5c97d10485af8ee9fd3c650b39c17e2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.8.0_300fa914317f66506a83e3f1134695f0149e564a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fc284672d9c563dd026fd1a342ead67fab573fe5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.8.0_36ef4bc958f7185d808460acfbb4411b07561f0d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f7d80d3fc299b2e06736b124b78e76a44f35a335">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_196adeb4d368ab50f09b3a5aad5ef180e1f2ee30\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\watch.nudge.phonegesturelibrary\phone-gest-lib\0.8.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="3ec5e758445a0edc3fd1b8b65a865dc6190299ee">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\watch.nudge.phonegesturelibrary-phone-gest-lib-0.8.4_ef0f146210b8104a5386efa89068f5ee29b256d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_fa9babaacd90f66abf919a833159dd2c39337d9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_e699484d5c9305b8b1dd90ae7b228a94dad576c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.8.0_8cbc16e0ac42a662f6a8d10e268af5dc42d87c2a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.8.0_a2b7304c7de435d3cfec307c75c1675f06aef248\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="876493f16e32bc858fc9b5a3d555fa7b73f7e0e3">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ac03f52fcc0f111894d503a1054482f3b1b85d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_ccbe66ffbd5b5c97ca548855ac4cf3340dc468ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_2e62f29b4bab6183f2f6d2d6ddbe5f517ddbd783\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_047839d7d5ef353ff920ed7ef42bff9134f03fa2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.8.0_430be3d29dd01e59c2d3455bb89399d0ad253abf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.8.0_c21131f0f2a797b66240a11985fcc1753d650594\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5b2deb4cb14a01d244f480d57710f4be437129c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_7e249339970a727a5d28faff0caa8d4ada48f690\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_b40bc3a7f1092c3d56a549e13c946ed0e51d9492\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.8.0_d7594a3ce00f236bf446836cb0eb5c4b84030747\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.8.0_8861f30d8be63220a36a77e11a25c690ecfab740\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.8.0_ac15f3e1df4fd8aeab2a59b49817f5688b8676f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.8.0_f8fd4601df448e5b7e8b9d27825d781b14ba5485\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f26bb9d3b097273c3be9e530f0a4dd0a8d44cdf2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_9bfa923110dc0854762bb8a1fdb63e3b85efacf8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-7.8.0_2e2ed1a89e5aa66cbd6818f0d619ca3cdfe9ff55\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.8.0_965576cf78d3da08a3acb8ff3055851772500509\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.8.0_cb4319810c119c0e3cd8839dd75ec39ecbdbc009\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.8.0_3adad0f770e6d1fa84f597da7d9d931a30b6e342\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.8.0_62ed2e8286517814e85484d38ed7f5d2b1e67e79\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.8.0_2ae6f64ef93a86702ca0852d78c85e717ff4863e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_912dfb8b21ef5e635d4d1f919974d67433c237d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_0aeb609f4fa607f9d4e409b680f6422a9035518a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_14d95207b21c14e6c272b6d46588dbbe63bbf140\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.8.0_e08e57582a7d40b8940375234ef3407eaeb92736\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.8.0_48c40f98b4b5cb7c6082b49560167b02693e810f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\danie\Desktop\WTT16\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_52602b8fefcb5bd66a5ec7dd5297029de9713ead\classes.dex" />
+    </item>
+
+</items>
