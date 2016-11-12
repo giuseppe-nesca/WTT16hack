@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="phone-gest-lib-0.8.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobile/build/intermediates/exploded-aar/watch.nudge.phonegesturelibrary/phone-gest-lib/0.8.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/mobile/build/intermediates/exploded-aar/watch.nudge.phonegesturelibrary/phone-gest-lib/0.8.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -5,7 +5,7 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="wtt.wtt16hack.MainWatchActivity"
+    tools:context="wtt.wtt16hack.gui.act.MainWatchActivity"
     tools:deviceIds="wear">
 
     <TextView
