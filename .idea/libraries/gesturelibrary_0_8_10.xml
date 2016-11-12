@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gesturelibrary-0.8.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wear/build/intermediates/exploded-aar/watch.nudge.gesturelibrary/gesturelibrary/0.8.10/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/wear/build/intermediates/exploded-aar/watch.nudge.gesturelibrary/gesturelibrary/0.8.10/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
