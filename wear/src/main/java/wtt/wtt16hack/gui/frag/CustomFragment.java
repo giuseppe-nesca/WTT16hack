@@ -1,7 +1,7 @@
 package wtt.wtt16hack.gui.frag;
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
+import android.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -42,12 +42,12 @@ public class CustomFragment extends Fragment {
             }
             case 1: {
                 textView.setEnabled(false);
-                imageView.setImageDrawable(getContext().getDrawable(R.drawable.gesture));
+                imageView.setImageDrawable(getActivity().getDrawable(R.drawable.gesture));
                 break;
             }
             case 2: {
                 textView.setEnabled(false);
-                imageView.setImageDrawable(getContext().getDrawable(R.drawable.gesture2));
+                imageView.setImageDrawable(getActivity().getDrawable(R.drawable.gesture2));
                 break;
             }
         }

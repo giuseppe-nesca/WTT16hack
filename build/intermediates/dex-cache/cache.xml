@@ -3,6 +3,33 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.8.0_bb3460fe3845de3d1f76f4ed9a368ebb1d6775c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.8.0_df8ecb8f0eb736d2e2984fd2d62cdeab0cf6486b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.8.0_0fabbaa7053381bf7ac0323d6e642500728f1d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -12,21 +39,111 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_e426542a404d031d6f8d91cf231e84e96eb0671b\classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_b28ed2beca4af490509b5bf420e5488d09e969d4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d70f5da9f2a7aaa3befcf89016bc158fcf04f7b0">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c321ffcd17c529c8e0f4e269b3712950b199fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.8.0_7ea758bbcf25ec4910bfd3b0d00fcc648656ba42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-7.8.0_fbc6cae20a486435adc3522b3fe92ffa0e941611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\watch.nudge.phonegesturelibrary\phone-gest-lib\0.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ec5e758445a0edc3fd1b8b65a865dc6190299ee">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\watch.nudge.phonegesturelibrary-phone-gest-lib-0.8.4_da7da493a05c88740693cad7a33780013291a2b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.8.0_0666b65fbab3c8304e10f296b6046458048d7b3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.8.0_10c9207fbb24212eecb42b10d5e088d31eb3be2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_206c8eb335c7a4b4afbda3c97eab4f414a6254f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.8.0_d43ea3797a22bfb885e0973efe5690cf1bb35e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_7fe7e72565e518fb0a5412c16c23c02bb21a8ad5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_6f6c026569f987e60b536f42464bcf36c04beb89\classes.dex" />
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_16b34780429e52a1ace06c910375667dfffb8e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f8fac7f499ea25c1b53e4c389d1be55557a8eb43\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,15 +156,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c59bbe382799b5cb7660842ac292489d5af4581b">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c321ffcd17c529c8e0f4e269b3712950b199fda\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -57,30 +165,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\watch.nudge.gesturelibrary\gesturelibrary\0.8.10\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3297d0ffb3c0f61ff11a489ac951374d7c8346b7">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\watch.nudge.gesturelibrary-gesturelibrary-0.8.10_e62b914f02710173395543f579234e6d7931c424\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_09b5c0be29ecc377c074ba6a8894b65c6c69ad95\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_323d6240684c19f9065f79732a7753061c3b3571\classes.dex" />
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f83b4807266f87b7dd7354fa8d1b55a7632434eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.8.0_d8fc749915cc3011283584587d6226e69d0fe47d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_f8c6ff02e2dd562ba9b650a6a75f5838f3e180b8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,12 +210,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_206c8eb335c7a4b4afbda3c97eab4f414a6254f3\classes.dex" />
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.8.0_bf3fdf63424917aea8327c94da089e77d52ec743\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_b8c28c35cf8c3fcd895587d3affc40c4a6ea04af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.8.0_6584d22372be63e6a8cab08fe81b779d4c6d05eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_d27edca9117bb268db9e1daed43a18e9f700333e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,21 +255,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="50996b7b7d58e07f704799593eac456280a19011">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e87a8d0f9bec2d4ccba0d6682a242974af2edc6\classes.dex" />
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1475aa02765b192d69b2f182200b12b7e1927250\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_8303aeb7bddf1711f05e41a6d592d695d0657491\classes.dex" />
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.8.0_c893c0d36df82ef6e524cc14baa38a7d4bab0e5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.8.0_46f4bb23a864756b63af42563188b89019a0c5c7\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,21 +291,120 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_79fd7df0d4da878ab16ac040b422430c915f1a45\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
         <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_abe92943e4f7d32ce144179edf2e069bde0571ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_d676eb550ee41b072971e7b8ac49bb5cd6c93f3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e0c0827d7cb71d5652898772d4bb917cf9b0d9e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="17261a16a2a89d96deeb2355f00d0fb3866e9fd5">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3bb1c9432a8d57e691b46b4a36edc3e4e79620a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_e426542a404d031d6f8d91cf231e84e96eb0671b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_6f6c026569f987e60b536f42464bcf36c04beb89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.8.0_99716a247ba9ad0eaf194fca445198826fae8e68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_242c31fb9f08f2ab119c55ed4789db1535316bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\watch.nudge.gesturelibrary\gesturelibrary\0.8.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3297d0ffb3c0f61ff11a489ac951374d7c8346b7">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\watch.nudge.gesturelibrary-gesturelibrary-0.8.10_e62b914f02710173395543f579234e6d7931c424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.8.0_f79600d5c2f5aec2dbc546d50f00c812336bcb98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2601223d34ac47bc99c82ddb667b8ce35db26282">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_752717cfd990bda07e6659e25f4134ddeea79df7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.8.0_2ef86215864a3966ba6439908f21a73ac47188c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_780ee98a731253a7c445531f51f0eaf0992b3f03\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,12 +426,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5dca2ae1d19e2efa7e83189c1d13e5904130778c\classes.dex" />
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.0_666d71e14c645ca690fa6e0fee7abe049a8b803e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_726754cabdcdd34a7ba576d80ad4986c9a3be683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.8.0_84fdc8796648c05ba7f0c45ef85ccd2b398e2a97\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -198,6 +459,123 @@
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_19bc725d4dbe248fa082ba9ad7ea2d957e93d88a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.8.0_8dfbe8d1a5f746a58e84d51992f2e0cd51333e8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_09b5c0be29ecc377c074ba6a8894b65c6c69ad95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_9b6df5c6cd1534de9c17e1a664ce1b3675b49b26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_323d6240684c19f9065f79732a7753061c3b3571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e0f49b342bdbd5dded93df8e20d3ce86f3d4ca26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.8.0_38158b5fc8bcb77eaa78da83ed585115ef9ede9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b861e8c7e5f083f0885151fe1ee829b23e5d97e1">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e87a8d0f9bec2d4ccba0d6682a242974af2edc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.8.0_ac0ca6b5ab014b9dad56e4602bb605e1b2d45a01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_8303aeb7bddf1711f05e41a6d592d695d0657491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_79fd7df0d4da878ab16ac040b422430c915f1a45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\wear\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5dca2ae1d19e2efa7e83189c1d13e5904130778c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c53f1ba2be37027de98d6e5faf1b174576399dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Davide\Project\WTT16HACK\WTT16hack\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.8.0_eaa54c2702797482876d8d60823e213758fe2716\classes.dex" />
     </item>
 
 </items>
